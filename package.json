@@ -1,6 +1,7 @@
 {
   "name": "xdariel-react-shop",
   "version": "0.1.0",  
+  "homepage" : "http://xd-shop.github.io/xd-shop"
   "private": true,
   "dependencies": {
     "firebase": "6.0.2",
