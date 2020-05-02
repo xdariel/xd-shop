@@ -1,7 +1,6 @@
 {
-  "name": "xdariel-shop",
-  "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "name": "xdariel-react-shop",
+  "version": "0.1.0",  
   "private": true,
   "dependencies": {
     "firebase": "6.0.2",
