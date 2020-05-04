@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/xd-shop/static/css/main.13820d97.chunk.css",
+    "main.js": "/xd-shop/static/js/main.4f5ee6d1.chunk.js",
+    "main.js.map": "/xd-shop/static/js/main.4f5ee6d1.chunk.js.map",
+    "runtime~main.js": "/xd-shop/static/js/runtime~main.bf230b0a.js",
+    "runtime~main.js.map": "/xd-shop/static/js/runtime~main.bf230b0a.js.map",
+    "static/js/2.c5f32dc4.chunk.js": "/xd-shop/static/js/2.c5f32dc4.chunk.js",
+    "static/js/2.c5f32dc4.chunk.js.map": "/xd-shop/static/js/2.c5f32dc4.chunk.js.map",
+    "index.html": "/xd-shop/index.html",
+    "precache-manifest.40e9f32af02549c128bbb03d4a14aae2.js": "/xd-shop/precache-manifest.40e9f32af02549c128bbb03d4a14aae2.js",
+    "service-worker.js": "/xd-shop/service-worker.js",
+    "static/css/main.13820d97.chunk.css.map": "/xd-shop/static/css/main.13820d97.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/xd-shop/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/xd-shop/static/media/shopping-bag.30f07071.svg"
+  }
+}
